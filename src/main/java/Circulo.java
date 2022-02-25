@@ -27,6 +27,12 @@ public class Circulo
             System.out.printf("El valor del área es %f\n", area);
             double longitud = (2*PI*r);
             System.out.println("La longitud del circulo es: " + longitud);
+            
+            System.out.println("Se vuelve a pedir area y longitud");
+            double area2=(PI*r*r);
+            System.out.printf("El valor del área es %f\n", area2);
+            double longitud2 = (2*PI*r);
+            System.out.println("La longitud del circulo es: " + longitud2);
      }
      catch (Exception E)
      {
