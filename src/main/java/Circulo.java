@@ -31,6 +31,7 @@ public class Circulo
             //calcular redondeo de area y longitud
             System.out.println("cambio para el apartado 9");
             System.out.println("nuevo cambio desde remoto apartado 10");
+              System.out.println("nuevo cambio desde remoto apartado 10");
      }
      catch (Exception E)
      {
